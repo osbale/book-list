@@ -1,0 +1,23 @@
+.success, .error {
+    color: white;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
+
+.success {
+    background: green;
+}
+
+.error {
+    background: red;
+}
+
+form > fieldset > legend {
+    font-size: 4rem
+}
+
+.delete {
+    cursor: pointer;
+}
